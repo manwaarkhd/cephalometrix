@@ -1,1 +1,1 @@
-# cephalometric-ai-toolkit
+# Cephalometric AI Toolkit
