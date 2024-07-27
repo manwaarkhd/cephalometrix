@@ -1,7 +1,7 @@
 import os
 
 class Paths(object):
-    root = "H:\\vision\\cephalometry\\datasets"
+    root = "path\to\datasets\folder"
     
     @classmethod
     def dataset_root_path(cls, name: str=None):
